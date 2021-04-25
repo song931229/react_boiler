@@ -1,0 +1,10 @@
+npm init
+
+// 뷰, 서비스, 컨트롤러
+npm install express --save
+// 몽고DB
+npm install mongoose --save
+// ReqBody에서 JSON 주고받끼
+npm install body-parser --save
+// 서버 refresh by onsorce changed
+npm install nodemon --save-dev
